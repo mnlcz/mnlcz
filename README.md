@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a backend portfolio**
 
-- 🌱 I’m currently learning **ASP.NET and PHP (for fun)**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **manuel.lopez.cosmitz@gmail.com**
 
