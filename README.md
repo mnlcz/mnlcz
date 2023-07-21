@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mnlcz" target="blank"><img src="https://img.shields.io/twitter/follow/mnlcz?logo=twitter&style=for-the-badge" alt="mnlcz" /></a> </p>
 
-- 🔭 I’m currently working as a **fullstack developer**
-
-- 🌱 I’m learning **NodeJS and Vue**
+- 🌱 I’m learning **web development**
 
 - 📫 How to reach me **manuel.lopez.cosmitz@gmail.com**
 
