@@ -1,4 +1,6 @@
-# <div align="center">Hi 👋! My name is Manuel and I'm a Computer Science Engineering Student from Argentina</div>  
+# <div align="center">Hi 👋! My name is Manuel</div>  
+
+- 🇦🇷 I'm a Computer Science Engineering Student from Argentina
   
 
 - 🌱 I’m currently polishing my .NET skills  
