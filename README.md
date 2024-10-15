@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi 👋! My name is Manuel and I'm a Computer Science Engineering Student from Argentina</div>  
   
 
