@@ -3,7 +3,7 @@
 - 🇦🇷 I'm a Computer Science Engineering Student from Argentina
   
 
-- 🌱 I’m currently polishing my .NET skills  
+- 🌱 I’m currently polishing my .NET skills and trying out the Zig programming language
   
 
 - 👀 I'm interested in web development, cybersecurity and low level programming  
