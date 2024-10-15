@@ -1,4 +1,4 @@
-### <div align="center">Hi 👋! My name is Manuel and I'm a Computer Science Engineering Student from Argentina</div>  
+# <div align="center">Hi 👋! My name is Manuel and I'm a Computer Science Engineering Student from Argentina</div>  
   
 
 - 🌱 I’m currently polishing my .NET skills  
