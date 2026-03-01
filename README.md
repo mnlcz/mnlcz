@@ -3,7 +3,7 @@
 - 🇦🇷 I'm a Computer Science Engineering Student from Argentina
   
 
-- 🌱 I’m currently polishing my .NET skills
+- 🌱 I’m currently polishing my backend skills
   
 
 - 👀 I'm interested in web development, cybersecurity and low level programming  
@@ -83,3 +83,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnlcz&theme=gotham&show_icons=true&hide_border=true&layout=compact" align="center" />
 
 <br />
+
